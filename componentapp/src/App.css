@@ -1,0 +1,23 @@
+.part1{
+  
+  border: 2px solid blue;
+  background-color: dodgerblue;
+  padding: 2em;
+  width: 40%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 2em;
+}
+.part{
+  display: flex;
+
+}
+.part2{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  border: 2px solid dodgerblue;
+  background-color:rgba(0, 0, 255, 0.479) ;
+  padding: 2em;
+  width: 60%;
+}
